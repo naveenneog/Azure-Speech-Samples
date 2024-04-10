@@ -1,6 +1,6 @@
-# Real-Time Audio Recognition with NAudio and Azure Speech Service
+# Real-Time System Audio Recognition with NAudio and Azure Speech Service
 
-This project demonstrates how to perform real-time audio recognition using the NAudio library and Azure Speech Service in C#.
+This project demonstrates how to perform real-time system audio recognition using the NAudio library and Azure Speech Service in C#.
 
 ## Prerequisites
 
